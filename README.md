@@ -1,16 +1,15 @@
 - 👋 Hi, I’m @Malikbadmus
 
-  **ML Engineer · Open Source Maintainer · Full-Stack Builder**  
-  · [LinkedIn](https://www.linkedin.com/in/malik-badmus-1ba19323b/) · malik.badmus@icloud.com
- 
+   **ML Engineer · Open Source Maintainer · Full-Stack Builder**
+- 📫 How to reach me malik.badmus@icloud.com  · [LinkedIn](https://www.linkedin.com/in/malik-badmus-1ba19323b/) 
 ---
+I build systems at the intersection of machine learning, software engineering, and real-world impact. My work spans biomedical AI research, production ERP delivery, and open-source infrastructure for global health.
 
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C
+---
 - 🙂🧠 Striving to improve myself through continous learning
 - 📊♥♥  I'm a lover of Data and working with Algorithm interest me
-- 💞️ I’m looking to collaborate on any projects on C
-- 📫 How to reach me malik.badmus@icloud.com
+
+
 
 
 <!---
