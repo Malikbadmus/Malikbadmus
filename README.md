@@ -1,4 +1,10 @@
 - 👋 Hi, I’m @Malikbadmus
+
+  **ML Engineer · Open Source Maintainer · Full-Stack Builder**  
+Lagos, Nigeria · [LinkedIn](https://www.linkedin.com/in/malik-badmus-1ba19323b/) · malik.badmus@icloud.com
+ 
+---
+
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C
 - 🙂🧠 Striving to improve myself through continous learning
